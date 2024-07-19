@@ -81,7 +81,6 @@ public class SwerveModule {
     // to be continuous.
     m_turningPIDController.enableContinuousInput(-Math.PI, Math.PI);
 
-    // Pi is cool
   }
 
   /**
